@@ -2,7 +2,7 @@ import { ComponentFixture, TestBed } from '@angular/core/testing';
 
 import { PhotoFrameComponent } from './photo-frame.component';
 
-describe('PhotoFrameComponent', () => {
+describe(PhotoFrameComponent.name, () => {
   let component: PhotoFrameComponent;
   let fixture: ComponentFixture<PhotoFrameComponent>;
 
