@@ -8,6 +8,7 @@ This project uses TestBed, Spy and similars.
 First, clone this repository then inside the project folder run `npm i` to install all of dependencies.
 You can run de application using `ng serve`.
 To run the tests use `ng test`.
+To run the web server and the angular app, please use `npm run all`.
     
 ## 📚 More informations
 
